@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.15)  26 AUG 2015 22:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.15)  27 AUG 2015 02:22
 entering extended mode
 **RR.tex
-(C:\Users\Eileen\Documents\GitHub\master\Study\RR.tex
+(C:\Users\Eileen\Documents\GitHub\master\Study\Term-Papers\RR.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -108,7 +108,7 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen115
 \titlewidthfirst=\dimen116
 )
-No file RR.aux.
+(C:\Users\Eileen\Documents\GitHub\master\Study\Term-Papers\RR.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -121,6 +121,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -162,30 +163,44 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--55
+Underfull \hbox (badness 10000) in paragraph at lines 51--54
 
  []
 
 [1
 
-{C:/Users/Eileen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
-(C:\Users\Eileen\Documents\GitHub\master\Study\RR.aux) ) 
+{C:/Users/Eileen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+[3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 158.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 158.
+
+Overfull \hbox (4.93286pt too wide) in paragraph at lines 158--169
+[] [] 
+ []
+
+[4] (C:\Users\Eileen\Documents\GitHub\master\Study\Term-Papers\RR.aux) ) 
 Here is how much of TeX's memory you used:
- 1700 strings out of 493921
- 21572 string characters out of 3144873
+ 1706 strings out of 493921
+ 21810 string characters out of 3144873
  85521 words of memory out of 3000000
- 5023 multiletter control sequences out of 15000+200000
- 8163 words of font info for 20 fonts, out of 3000000 for 9000
+ 5026 multiletter control sequences out of 15000+200000
+ 8849 words of font info for 21 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 24i,4n,33p,749b,148s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
-pen\ec\dpi600\ecbx1000.pk> <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:
-\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Eileen\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb>
-Output written on RR.pdf (3 pages, 71145 bytes).
+ 24i,6n,33p,749b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecbx1000.pk> <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Eileen\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on RR.pdf (4 pages, 86193 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
+ 224 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
