@@ -1,15 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.15)  27 AUG 2015 02:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.25)  27 AUG 2015 21:52
 entering extended mode
 **RR.tex
-(C:\Users\Eileen\Documents\GitHub\master\Study\Term-Papers\RR.tex
+(C:\Users\Lenovo\Documents\GitHub\master\Study\Term-Papers\RR.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
-, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
-ian, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
- kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
--x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
-ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
-elsh, loaded.
+Babel <v3.8m> and hyphenation patterns for english, czech, french, irish, italian, latin, slovak, loaded.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
@@ -96,7 +90,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks17
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-(C:\Users\Eileen\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box26
 \beforetitleunit=\skip43
@@ -108,7 +102,7 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen115
 \titlewidthfirst=\dimen116
 )
-(C:\Users\Eileen\Documents\GitHub\master\Study\Term-Papers\RR.aux)
+(C:\Users\Lenovo\Documents\GitHub\master\Study\Term-Papers\RR.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -169,7 +163,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--54
 
 [1
 
-{C:/Users/Eileen/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
@@ -184,23 +178,44 @@ Overfull \hbox (4.93286pt too wide) in paragraph at lines 158--169
 [] [] 
  []
 
-[4] (C:\Users\Eileen\Documents\GitHub\master\Study\Term-Papers\RR.aux) ) 
+
+Overfull \hbox (6.5831pt too wide) in paragraph at lines 192--204
+[] [] 
+ []
+
+
+Overfull \hbox (20.89702pt too wide) in paragraph at lines 211--221
+[] [] 
+ []
+
+[4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+[6] [7] (C:\Users\Lenovo\Documents\GitHub\master\Study\Term-Papers\RR.aux) ) 
 Here is how much of TeX's memory you used:
- 1706 strings out of 493921
- 21810 string characters out of 3144873
- 85521 words of memory out of 3000000
- 5026 multiletter control sequences out of 15000+200000
+ 1706 strings out of 495225
+ 21783 string characters out of 3178964
+ 86391 words of memory out of 3000000
+ 4925 multiletter control sequences out of 15000+200000
  8849 words of font info for 21 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 24i,6n,33p,749b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1000.pk> <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Eileen\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Eileen\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on RR.pdf (4 pages, 86193 bytes).
+ 70 hyphenation exceptions out of 8191
+ 24i,7n,33p,749b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\ecbx1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Len
+ovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb>
+Output written on RR.pdf (7 pages, 100066 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
+ 252 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
