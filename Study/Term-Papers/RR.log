@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.25)  28 AUG 2015 14:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.25)  28 AUG 2015 15:08
 entering extended mode
 **RR.tex
 (C:\Users\Lenovo\Documents\GitHub\master\Study\Term-Papers\RR.tex
@@ -194,24 +194,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 418--419
 
  []
 
-[9] (C:\Users\Lenovo\Documents\GitHub\master\Study\Term-Papers\RR.aux) ) 
+[9]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 422.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 422.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 422.
+ [10] (C:\Users\Lenovo\Documents\GitHub\master\Study\Term-Papers\RR.aux) ) 
 Here is how much of TeX's memory you used:
- 1711 strings out of 495225
- 21846 string characters out of 3178964
+ 1735 strings out of 495225
+ 22102 string characters out of 3178964
  85391 words of memory out of 3000000
- 4928 multiletter control sequences out of 15000+200000
- 10395 words of font info for 23 fonts, out of 3000000 for 9000
+ 4942 multiletter control sequences out of 15000+200000
+ 14661 words of font info for 34 fonts, out of 3000000 for 9000
  70 hyphenation exceptions out of 8191
- 24i,8n,33p,749b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Lenovo\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts
-\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx2488.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on RR.pdf (9 pages, 128820 bytes).
+ 27i,8n,35p,749b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ecrm0600.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\Lenov
+o\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ecrm1000.pk> <C:\Users\Lenovo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk> <C:\Users\Lenov
+o\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb>
+Output written on RR.pdf (10 pages, 134993 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
+ 334 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
